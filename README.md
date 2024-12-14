@@ -13,8 +13,6 @@ Esplora i nostri ultimi articoli del blog e aggiornamenti:
 ### [Cosa sono gli Agent AI](https://organization-name.github.io/posts/post-title-1)
 *Breve anteprima del contenuto dell'articolo. Scopri di più su questo argomento interessante cliccando sul link sopra.*
 
----
-
 ### [Come sviluppare un agent AI con CrewAI](https://organization-name.github.io/posts/post-title-2)
 *Un altro fantastico articolo! Ecco una breve descrizione di ciò che puoi aspettarti da questo contenuto.*
 
