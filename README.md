@@ -1,8 +1,17 @@
-Benvenuto nel mondo degli Agent AI! 
-Qui scoprirai cosa sono, come funzionano e come puoi iniziare a crearli per applicazioni in tanti settori diversi e le basi tecnologiche che li rendono possibili, come il machine learning, le reti neurali e gli LLM.
+<div style="display: flex; align-items: center;">
 
-<div style="text-align: center;">
-   <img src="assets/img/agent-ai-z.jpg" style="width: 60%; border-radius: 5%;">
+  <!-- Immagine a sinistra -->
+  <img src="assets/img/agent-ai-z.jpg" alt="AgentAI" style="border-radius: 5%; margin-right: 20px; width: 300px;">
+
+  <!-- Testo a destra -->
+  <div>
+    <h3>Agent AI 00Z</h3>
+    <p>
+      Benvenuto nel mondo degli Agent AI! 
+      Qui scoprirai cosa sono, come funzionano e come puoi iniziare a crearli per applicazioni in tanti settori diversi e le basi tecnologiche che li rendono possibili, come il machine learning, le reti neurali e gli LLM.
+    </p>
+  </div>
+
 </div>
 
 ---
