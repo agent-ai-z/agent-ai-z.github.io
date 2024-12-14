@@ -42,3 +42,4 @@ Questo sito web è concesso in licenza sotto [Licenza MIT](LICENSE). Sentiti lib
 
 ## 📬 Contattaci
 Per domande, feedback o opportunità di collaborazione, scrivi a: [g.zileni@quest-it.com](mailto:g.zileni@quest-it.com).
+O visita il profilo LinkedIn: [Giuseppe Zileni](https://www.linkedin.com/in/gzileni/).
