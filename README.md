@@ -3,17 +3,19 @@
 Benvenuto nel mondo degli Agent AI! 
 Qui scoprirai cosa sono, come funzionano e come puoi iniziare a crearli per applicazioni in tanti settori diversi e le basi tecnologiche che li rendono possibili, come il machine learning, le reti neurali e gli LLM.
 
+<div style="text-align: center;">
+   <img src="./agent-ai-z.jpg" style="width: 60%; border-radius: 5%;">
+</div>
+
 ## 📰 Ultimi Articoli
 Esplora i nostri ultimi articoli del blog e aggiornamenti:
 
 ### [Cosa sono gli Agent AI](https://organization-name.github.io/posts/post-title-1)
-![Immagine Anteprima](https://via.placeholder.com/150)
 *Breve anteprima del contenuto dell'articolo. Scopri di più su questo argomento interessante cliccando sul link sopra.*
 
 ---
 
 ### [Come sviluppare un agent AI con CrewAI](https://organization-name.github.io/posts/post-title-2)
-![Immagine Anteprima](https://via.placeholder.com/150)
 *Un altro fantastico articolo! Ecco una breve descrizione di ciò che puoi aspettarti da questo contenuto.*
 
 ---
