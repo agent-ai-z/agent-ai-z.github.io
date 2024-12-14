@@ -42,6 +42,3 @@ Vuoi contribuire? Ecco come fare:
    git push origin nome-del-branch
    ```
 6. Apri una **Pull Request** con una descrizione dettagliata delle tue modifiche.
-
-## 📜 Licenza
-Questo sito web è concesso in licenza sotto [Licenza MIT](LICENSE). Sentiti libero di utilizzare, modificare e distribuire.
