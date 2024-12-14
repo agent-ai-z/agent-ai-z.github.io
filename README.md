@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 30px">
 
   <!-- Immagine a sinistra -->
   <img src="assets/img/agent-ai-z.jpg" alt="AgentAI" style="border-radius: 5%; margin-right: 20px; width: 300px;">
