@@ -5,9 +5,8 @@
 
   <!-- Testo a destra -->
   <div>
-    <h3>Agent AI 00Z</h3>
+    <h3>Benvenuto nel mondo degli Agent AI!</h3>
     <p>
-      Benvenuto nel mondo degli Agent AI! 
       Qui scoprirai cosa sono, come funzionano e come puoi iniziare a crearli per applicazioni in tanti settori diversi e le basi tecnologiche che li rendono possibili, come il machine learning, le reti neurali e gli LLM.
     </p>
   </div>
