@@ -1,11 +1,11 @@
-# Benvenuti su Agent AI 00Z
-
 Benvenuto nel mondo degli Agent AI! 
 Qui scoprirai cosa sono, come funzionano e come puoi iniziare a crearli per applicazioni in tanti settori diversi e le basi tecnologiche che li rendono possibili, come il machine learning, le reti neurali e gli LLM.
 
 <div style="text-align: center;">
    <img src="assets/img/agent-ai-z.jpg" style="width: 60%; border-radius: 5%;">
 </div>
+
+---
 
 ## 📰 Ultimi Articoli
 Esplora i nostri ultimi articoli del blog e aggiornamenti:
@@ -41,5 +41,6 @@ Vuoi contribuire? Ecco come fare:
 Questo sito web è concesso in licenza sotto [Licenza MIT](LICENSE). Sentiti libero di utilizzare, modificare e distribuire.
 
 ## 📬 Contattaci
-Per domande, feedback o opportunità di collaborazione, scrivi a: [g.zileni@quest-it.com](mailto:g.zileni@quest-it.com).
-O visita il profilo LinkedIn: [Giuseppe Zileni](https://www.linkedin.com/in/gzileni/).
+Per domande, feedback o opportunità di collaborazione:
+- scrivi a: [g.zileni@quest-it.com](mailto:g.zileni@quest-it.com).
+- visita il profilo LinkedIn: [Giuseppe Zileni](https://www.linkedin.com/in/gzileni/).
