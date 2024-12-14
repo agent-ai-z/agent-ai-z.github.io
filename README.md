@@ -30,7 +30,7 @@ Vuoi contribuire? Ecco come fare:
 1. **Forka** il repository sul tuo account.
 2. **Clona** il repository forkato:
    ```bash
-   git clone https://github.com/tuo-username/organization-name.github.io.git
+   git clone https://github.com/tuo-username/agent-ai-z.github.io.git
    ```
 3. Aggiungi o aggiorna articoli del blog e funzionalità.
 4. **Committa** le tue modifiche:
