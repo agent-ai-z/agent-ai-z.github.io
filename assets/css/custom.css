@@ -1,0 +1,12 @@
+/* Importa il font desiderato */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Applica il font al corpo e agli elementi globali */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700; /* Usa uno stile più marcato per i titoli */
+}

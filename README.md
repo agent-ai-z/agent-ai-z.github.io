@@ -18,12 +18,6 @@ Esplora i nostri ultimi articoli del blog e aggiornamenti:
 ### [Come sviluppare un agent AI con CrewAI](https://organization-name.github.io/posts/post-title-2)
 *Un altro fantastico articolo! Ecco una breve descrizione di ciò che puoi aspettarti da questo contenuto.*
 
----
-
-## 🌐 Visita il Nostro Blog
-Accedi direttamente al blog:
-[https://agent-ai-z.github.io](https://agent-ai-z.github.io)
-
 ## 🤝 Come Puoi Aiutare
 Vuoi contribuire? Ecco come fare:
 
@@ -48,6 +42,3 @@ Questo sito web è concesso in licenza sotto [Licenza MIT](LICENSE). Sentiti lib
 
 ## 📬 Contattaci
 Per domande, feedback o opportunità di collaborazione, scrivi a: [g.zileni@quest-it.com](mailto:g.zileni@quest-it.com).
-
----
-Grazie per averci visitato! Rimani sintonizzato per ulteriori aggiornamenti.
