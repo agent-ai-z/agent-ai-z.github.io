@@ -1,4 +1,12 @@
 theme: minima
+
 plugins:
   - jekyll-sass-converter
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "" # Applicato a tutto il sito
+      type: "css"
+    values:
+      stylesheet: "/assets/css/custom.css"
